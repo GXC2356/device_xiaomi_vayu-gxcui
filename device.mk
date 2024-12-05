@@ -406,7 +406,6 @@ PRODUCT_PACKAGES += \
    CarrierConfigOverlayVayu \
    DialerOverlayVayu \
    FrameworksResOverlayVayu \
-   NotchBarKillerVayu \
    SettingsOverlayVayu \
    SettingsProviderOverlayVayu \
    SystemUIOverlayVayu \
