@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_vayu.mk
+    $(LOCAL_DIR)/flare_vayu.mk
