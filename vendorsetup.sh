@@ -4,7 +4,7 @@ git clone --depth=1 https://github.com/SkylineUI-Devices/vendor_xiaomi_vayu.git 
 
 # Kernel (Skyline)
 rm -rf kernel/xiaomi/vayu
-git clone --depth=1 https://github.com/GXC2356/platform_kernel_xiaomi_vayu.git kernel/xiaomi/vayu
+git clone --depth=1 https://github.com/aospa-x3pro/kernel_msm-4.14.git -b vauxite kernel/xiaomi/vayu
 
 # Hardware
 rm -rf hardware/xiaomi
